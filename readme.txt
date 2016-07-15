@@ -6,3 +6,4 @@ Finally I finish it.
 creating a new branch is quick and simple.
 Git can merge branches.
 My friend add some words.
+Now I am going to update my files.
